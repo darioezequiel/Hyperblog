@@ -1,5 +1,7 @@
-Jueves 05-05
+Jueves 05-05, Mi nombre es Dario Rodriguez
+Son las 12:43
 Se realiza nuevamente todo lo aprendido
 Iniciamos con txt. Un nuevo archivo
 Luego de varios cambios y chequeos
 Realizaremos html.
+
